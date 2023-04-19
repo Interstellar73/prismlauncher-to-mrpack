@@ -1,4 +1,4 @@
-a short document on how to convert a prism launcher file to a modrinth pack (.mrppack)
+a short document on how to convert a prism launcher file to a modrinth pack (.mrpack)
 So you're here because you want to learn how to convert a prism launcher instance to a modrinth pack. (why a modrinth pack? because those can be read by prism launcher easily)
 Things you need: ATLauncher (https://atlauncher.com/about)
 Prism Launcher (https://prismlauncher.org)
