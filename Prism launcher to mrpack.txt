@@ -6,7 +6,7 @@ Instructions:
 open prism launcher.
 right click on the instance you want to download
 press 'copy'
-uncheck everything except copy mods
+uncheck everything except copy mods (if you need configs, check configs too)
 press ok
 then right click again and press 'export'
 press ok
