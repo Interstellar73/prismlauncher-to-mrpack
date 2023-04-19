@@ -1,0 +1,29 @@
+a short document on how to convert a prism launcher file to a modrinth pack (.mrppack)
+So you're here because you want to learn how to convert a prism launcher instance to a modrinth pack. (why a modrinth pack? because those can be read by prism launcher easily)
+Things you need: ATLauncher (https://atlauncher.com/about)
+Prism Launcher (https://prismlauncher.org)
+Instructions:
+open prism launcher.
+right click on the instance you want to download
+press 'copy'
+uncheck everything except copy mods
+press ok
+then right click again and press 'export'
+press ok
+save the file to wherever you'd like.
+close Prism Launcher
+open ATLauncher
+go to instances
+press import
+click browse
+navigate to wherever you downloaded the instance (it will be saved as a .zip file)
+press import
+press install
+then on the instance press export 
+pick the format modrinth
+press export
+save to wherever you'd like
+you can now upload to modrinth, or send it to your friends.
+
+Thank you for reading
+-Interstellar73
